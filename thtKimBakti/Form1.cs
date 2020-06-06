@@ -73,7 +73,14 @@ namespace thtKimBakti
                             temp += span.TextContent + Environment.NewLine;                            
                             if (textBox1.Text.Contains(span.TextContent) == false)
                             {
+                                if(checkBox1.Checked == false)
+                                {
                                 new Bildirim(span.TextContent, false, (toP)).Show();
+                                }
+                            else
+                            {
+                                new Bildirim(span.TextContent, true, (toP)).Show();
+                                }
                                 toP += 225;
                                 //MessageBox.Show(span.TextContent);
                             }
