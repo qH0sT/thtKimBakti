@@ -1,0 +1,15 @@
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\bin\Debug\thtKimBakti.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\obj\Debug\thtKimBakti.Form1.resources
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\obj\Debug\thtKimBakti.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\obj\Debug\thtKimBakti.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\obj\Debug\thtKimBakti.exe
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\obj\Debug\thtKimBakti.pdb
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\bin\Debug\thtKimBakti.exe
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\bin\Debug\thtKimBakti.pdb
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\bin\Debug\Geckofx-Core.dll
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\bin\Debug\Geckofx-Winforms.dll
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\bin\Debug\Geckofx-Core.pdb
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\bin\Debug\Geckofx-Winforms.pdb
+c:\users\harun\documents\visual studio 2015\Projects\thtKimBakti\thtKimBakti\obj\Debug\thtKimBakti.Giris.resources
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\thtKimBakti\thtKimBakti\obj\Debug\thtKimBakti.Bildirim.resources
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\thtKimBakti\thtKimBakti\obj\Debug\thtKimBakti.csprojResolveAssemblyReference.cache
