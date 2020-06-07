@@ -89,7 +89,7 @@ namespace thtKimBakti
                     }
                     textBox1.Text = temp;
                     temp = "";
-                    toP = 223;
+                    toP = 10;
                 }
                 else
                 {
